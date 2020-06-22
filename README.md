@@ -28,6 +28,7 @@ You can see the visual results in the folder ./tools/show
 Since there are only 1214 images in line-occulution, we need to use data enhancement to increase the training map. I have one that has been processed. You can also try it yourself according to the project.
 # 1.Download data
 put them in：
+[BAIDU DRIVE](https://pan.baidu.com/s/1izQrfXUbfEG4RwBml1nyVQ )，key:l8j3
 6dposeDetect/data/VOCdevkit2007/VOC2007
 ** The data package is very large. You can decompress it like this：
 ```
