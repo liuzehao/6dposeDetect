@@ -1,5 +1,5 @@
 # 6dposeDetect
-A 6D attitude estimation method based on fast-rcnn.
+A 6D-pose estimation method based on fast-rcnn.
 ![pic1](https://github.com/liuzehao/6dposeDetect/blob/master/pic1.png)
 ## Test method：
 1.Download code from github
