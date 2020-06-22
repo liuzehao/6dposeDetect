@@ -29,6 +29,10 @@ Since there are only 1214 images in line-occulution, we need to use data enhance
 # 1.Download data
 put them in：
 6dposeDetect/data/VOCdevkit2007/VOC2007
+** The data package is very large. You can decompress it like this：
+```
+cat test.tar.gz* | tar -xzv
+```
 # 2.
 ```python
 ./experiments/scripts/train_faster_rcnn.sh 0 pascal_voc res101
