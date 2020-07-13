@@ -1,7 +1,10 @@
 # 6dposeDetect
 A 6D-pose estimation method based on fast-rcnn.
 ![pic1](https://github.com/liuzehao/6dposeDetect/blob/master/pic1.png)
+# demo video
 [![Youtube](https://github.com/liuzehao/6dposeDetect/blob/master/showvideo.png)](https://youtu.be/AyveVaFebcs)
+youtube:https://youtu.be/AyveVaFebcs
+youku:https://v.youku.com/v_show/id_XNDcyODkzMzk4NA==.html
 ## Test method：
 # 1.Download code from github
 # 2.Install environment through pip
