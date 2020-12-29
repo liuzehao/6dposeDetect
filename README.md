@@ -1,9 +1,9 @@
 # 6dposeDetect
 A 6D-pose estimation method based on fast-rcnn.
-![pic1](https://github.com/liuzehao/6dposeDetect/blob/master/pic1.png)
+![pic1](./pic1.png)
 # demo video
-[![Youtube](https://github.com/liuzehao/6dposeDetect/blob/master/showvideo.png)](https://youtu.be/AyveVaFebcs)
-[![youku](https://github.com/liuzehao/6dposeDetect/blob/master/pic2.png)](https://v.youku.com/v_show/id_XNDkxMzI4Mjk2MA==.html)
+[![Youtube](./showvideo.png)](https://youtu.be/AyveVaFebcs)
+[![youku](./pic2.png)](https://v.youku.com/v_show/id_XNDkxMzI4Mjk2MA==.html)
 youtube:https://youtu.be/AyveVaFebcs
 youku:https://v.youku.com/v_show/id_XNDcyODkzMzk4NA==.html
 ## Test method：
@@ -26,9 +26,9 @@ cd tools
 python linemodocclusion9.py
 ```
 You can see the visual results in the folder ./tools/show
-![can](https://github.com/liuzehao/6dposeDetect/blob/master/can_00000.jpg)
-![cat](https://github.com/liuzehao/6dposeDetect/blob/master/cat_00000.jpg)
-![driller](https://github.com/liuzehao/6dposeDetect/blob/master/driller_00000.jpg)
+![can](./can_00000.jpg)
+![cat](./cat_00000.jpg)
+![driller](./driller_00000.jpg)
 ## Train method：
 Since there are only 1214 images in line-occulution, we need to use data enhancement to increase the training map. I have one that has been processed. You can also try it yourself according to the project.
 # 1.Download data
