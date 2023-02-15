@@ -150,7 +150,7 @@ visdom==0.1.8.5
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==0.15.2
+Werkzeug==2.2.3
 widgetsnbextension==3.2.1
 wrapt==1.11.1
 xdiagnose==3.8.4.1
